@@ -19,6 +19,8 @@ player_file_path = 'nba_stats_2022.csv'
 team_stats_file_path = 'team_stats2022.csv'
 ```
 
+Make sure to update all file paths within the entire file.
+
 ## Usage Instructions
 To run the analyses:
 

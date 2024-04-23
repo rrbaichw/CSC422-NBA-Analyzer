@@ -1,4 +1,4 @@
-# CSC422-NBA-Analyzer
+# CSC422-NBA-Analyzer Instructions
 
 ## Overview
 This project includes four datasets: two team datasets and two player datasets. Users can analyze NBA statistics from the years 2017 and 2022.
